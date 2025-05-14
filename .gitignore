@@ -3,3 +3,5 @@
 # Ignore Laravel log file
 storage/logs/laravel.log
 storage/logs/laravel.log
+# add here .env
+.env
